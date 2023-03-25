@@ -29,6 +29,6 @@ Tópicos abordados no curso
 •JPA/Hibernate e acesso a banco de dados com ORM;
 •Spring Boot e criação de web services;
 •JavaFX e desenvolvimento de aplicações desktop;
-•MongoDB e acesso a banco de dados NoSQL.![image](https://user-images.githubusercontent.com/100710995/227726581-58fd3689-c3c9-4b4b-ba24-66cc1a42f0a6.png)
+•MongoDB e acesso a banco de dados NoSQL.
 
  
